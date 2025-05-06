@@ -1,4 +1,4 @@
-# Flatirons Development Back-end Rails/NodeJS Developer Coding Test
+# Development Back-end Rails/NodeJS Developer Coding Test
 
 Be sure to read **all** of this document carefully, and follow the guidelines within.
 
